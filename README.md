@@ -1,4 +1,4 @@
-# Construction Website Demo — رُكن البناء
+# Construction Website Demo
 
 Arabic RTL construction-company website demo for showcasing web design skills.
 
